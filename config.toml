@@ -1,5 +1,5 @@
 baseURL = "https://dariobraun.github.io/webster/"
-publishDir = "docs"
+publishDir = "public"
 languageCode = "en-us"
 title = "webster"
 theme = "ananke"
